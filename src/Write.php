@@ -6,7 +6,7 @@ namespace Application;
 use Application\File;
 use Application\DataBase;
 
-class Write extends AbstractWrite
+class Write extends AbstractWriter
 {
     protected $fileName;
     protected $data;

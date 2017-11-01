@@ -1,1 +1,15 @@
-{    "name": "valeriy/homework3",    "authors": [        {            "name": "Valeriy Kolomiets",            "email": "vel202007@gmail.com"        }    ],    "autoload": {        "psr-4": {            "Application\\": "src/"        }    },    "require": {}}
+{
+    "name": "valeriy/homework3",
+    "authors": [
+        {
+            "name": "Valeriy Kolomiets",
+            "email": "vel202007@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    },
+    "require": {}
+}
